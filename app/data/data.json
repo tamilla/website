@@ -1,0 +1,27 @@
+{
+  "pageSections": [{
+    "title" : "About",
+    "sectionID": "about",
+    "description": "My name is Tamilla Bunyadova. I'm a 2nd-year Systems Design Engineering student at University of Waterloo. I'm originally from Baku, Azerbaijan where I spent 19 years of my life. I'm passionate about web development and planning to excel in this field by teaching myself a variety of new technologies. In addition, I am interested in UX/UI design to add usability and good looks to my apps. <br /> <br />In my spare time I enjoy cooking different types of international food, read good fiction and listen to classic music with some rock twist (I am a huge David Garrett fan). I speak Azerbaijani, Turkish, Russian fluently."
+  },{
+    "title" : "Works",
+    "sectionID": "works",
+    "company": "Canada Company",
+    "description": "I spent my last work terms at AGF Management Ltd. for Canada Company. <a href='https://www.canadacompany.ca/en/index.html'>Canada Company</a> is a charity that helps veterans and military spouses to find jobs fitting their skills through MET and METSpouse programs. Me and my partner realized several project during this two terms that enhaced the overall usability on Canada Company, METForce public and secure websites.<br /><br /><div class='timeline'>January 2016 - April 2016</div><br /><p>We implemented a series of SEO techniques to increase site visibility for Canada Company and METForce website. Also, I actively was involved in creation of layout and fron-end design on three microsites that comprise the secure side of METForce website.</p><br /><br /><div class='timeline'>September 2016 - December 2016</div><br /><p>At the beginning of the second term, I started on adjusting all these website to become AODA (Accessibility for Ontarians with Disabilities Act) compliant. After finishing this porject I assisted my partner in  front-end development of a new job submission system to ease job postings from different employer partners. Employer partners are companies and organizations who collaborated with Canada Company to help veterans in  transition process.</p>",
+    "screenshots" : ["screenshot-desktop.png", "screenshot-mobile.png"]
+  },{
+    "title" : "Skills",
+    "sectionID": "skills",
+    "skills": [{
+      "title": "Frontend & Backend Web Development",
+      "tech": ["HTML", "CSS", "Javascript", "Cascade CMS", "PHP", "MySQL"]
+      },{
+        "title": "Fullstack Development",
+        "tech": ["Nodejs", "React", "AngularJs", "MongoDB"]
+      },{
+        "title": "SEO & Usability",
+        "tech": ["Google Web Master Tools", "Google Analytics", "Accessibility", "UX"]
+      }
+      ]
+}]
+}

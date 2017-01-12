@@ -1,0 +1,24 @@
+<div class="row page-section" id="skills">
+	<div class="container">
+	  <div id="skills">
+	    <h2>Skills</h2>
+	    <div class="skills-block">
+		    <% if(skillList.length > 0){ %>
+			<%  for(i=0; i < skillList.length; i++){ %>
+			<div class="col-xs-12 col-lg-4 skillItem">
+				<h5><%= skillList[i].title %></h5>
+				<div class="techList">
+					<% if(skillList[i].tech.length > 0){ %>
+					<%  for(j=0; j < skillList[i].tech.length; j++){ %>
+					<li><%= skillList[i].tech[j] %></li>
+					<%  } %>
+					<% } %>
+				</div>
+			</div>
+			<%  } %>
+			<% } %>
+	    </div>
+
+	  </div>
+	</div>
+</div>

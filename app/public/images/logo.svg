@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 57.3 88.9" style="enable-background:new 0 0 57.3 88.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#562312;}
+	.st1{font-family:'Georgia-Bold';}
+	.st2{font-size:72px;}
+	.st3{font-size:60px;}
+	.st4{fill:#FFFFFF;}
+</style>
+<font horiz-adv-x="2048">
+<!-- Georgia is a trademark of the Microsoft group of companies. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Georgia-Bold" units-per-em="2048" underline-position="-180" underline-thickness="122"/>
+<missing-glyph horiz-adv-x="2048" d="M256,0l0,1536l1536,0l0,-1536M384,128l1280,0l0,1280l-1280,0z"/>
+<glyph unicode="b" horiz-adv-x="1322" d="M1251,489C1251,339 1202,215 1103,116C1004,17 878,-32 726,-32C667,-32 617,-28 575,-19C532,-11 496,-1 467,11C436,24 412,36 394,49C375,61 361,71 350,79l-143,-130l-59,23C151,21 154,74 157,131C159,188 160,264 160,361l0,936C160,1322 155,1346 145,1368C134,1389 120,1406 103,1417C90,1425 72,1432 48,1438C23,1444 1,1448 -20,1449l0,73l494,26l15,-16l0,-650l6,0C544,929 594,964 645,986C696,1008 748,1019 799,1019C939,1019 1049,971 1130,876C1211,781 1251,652 1251,489M892,477C892,528 888,577 881,624C873,671 860,712 842,748C824,784 800,813 771,835C742,856 705,867 662,867C621,867 588,860 561,847C534,834 510,814 489,788l0,-582C493,193 501,175 512,154C523,132 534,115 545,103C561,86 578,73 596,64C614,55 639,50 672,50C740,50 794,87 833,162C872,236 892,341 892,477z"/>
+<glyph unicode="t" horiz-adv-x="814" d="M802,46C759,27 714,11 665,-4C616,-19 557,-27 487,-27C383,-27 306,-2 256,49C205,100 180,172 180,266l0,614l-180,0l0,108l184,0l0,303l325,0l0,-303l280,0l0,-108l-278,0l0,-548C511,254 522,199 544,166C565,133 604,117 660,117C678,117 703,118 735,121C767,124 789,127 802,130z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 0 60.9434)" class="st0 st1 st2">t</text>
+<text transform="matrix(1 0 0 1 18.5625 70.7559)" class="st0 st1 st3">b</text>
+<polygon class="st4" points="23.2,33.6 18,33.6 18,29.8 23.3,29.8 "/>
+</svg>

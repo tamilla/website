@@ -1,0 +1,237 @@
+/*Table of Contents
+---------------------------------------------------------------
+- General Content
+- Typography
+- Header & Navigation
+- Images & Media
+- Footer
+- Media Queries
+---------------------------------------------------------------*/
+
+
+/* General Content
+----------------------------------------------------------------*/
+body{
+	width: 100%;
+}
+
+.container{
+	width: 100%;
+}
+
+#intro{
+	background: url("../images/banner-background-new.jpg") no-repeat center;
+	background-size: 100% 100%;
+	/*width: 100%;*/
+}
+
+#intro-block{
+	margin: 0 auto;
+	margin-top: 4em;
+}
+
+#intro-readmore{
+	text-align: center;
+}
+
+.gallery{
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+.galleryItem{
+	/* float: left; */
+	/* clear: both; */
+	width: 1800px;
+	padding: 30px 30px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#about{
+	width: 80%;
+	margin: 0 auto;
+	clear: both;
+}
+
+#works, #skills{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.four.columns.skillItem {
+    margin: 0 .53em;
+}
+
+footer {
+    background-color: #0C0911;
+    color: #D5DAD7;
+    padding: .3em
+}
+/* Typography---------------------------------------------------*/
+
+body{
+	font-size: 1.9em;
+	color: #000000;
+	font-family: 'Muli', sans-serif;
+}
+
+h2{
+	font-size: 3em;
+	padding: .8em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	text-align: center;
+}
+
+h3{
+	font-size: 1.5em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	padding: .4em;
+}
+
+#intro-block h1{
+	font-size: 4em;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+#intro-block h2{
+	font-size: 2em;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+}
+.page-section p{
+	padding-left: 40px;
+	line-height: 1.6em;
+}
+
+.timeline {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+#skills h2{
+	padding-top: 0;
+}
+
+a{
+	color: #000000;
+}
+
+.skillItem h5{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    padding: .2em;
+}
+
+.techList{
+	list-style: none;
+	text-align: center;
+}
+
+/* Header & Navigation
+----------------------------------------------------------------*/
+
+header.main_nav{
+	padding: 1% 0;
+	display: block;
+}
+
+#top-nav ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	padding-top: .5em;
+}
+
+
+
+.nav-link a{
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	color: #000000;
+	font-weight: 500;
+}
+
+.nav-link a:hover{
+	color: #0FA0CE;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border: none;
+}
+
+.navbar-default{
+	border: none;
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+
+span.divider {
+    padding: 5px;
+}
+span.divider:last-child{
+	display: none;
+}
+
+.container .jumbotron, .container-fluid .jumbotron{
+	border-radius: 0px;
+}
+/* Images & Media
+----------------------------------------------------------------*/
+.companyLogo {
+    float: left;
+    margin-right: 1em;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+}
+
+/* Footer
+----------------------------------------------------------------*/
+
+footer{
+	margin-top: 2em;
+	padding: .7em;
+}
+
+/* Media QUeries
+----------------------------------------------------------------*/
+@media only screen and (max-width: 767px) {
+    li.nav-link {
+       text-align: center;
+        width: 100%;
+	}
+
+	.social-link{
+		float: none;
+	}
+
+.divider{
+    display: none;
+}
+}
+.social-link{
+	float: right;
+}
+
+.social-link a{
+	margin-right: 1em;
+}
+
+/* MOdals
+----------------------------------------------------------------*/
+
+

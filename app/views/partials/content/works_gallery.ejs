@@ -1,0 +1,7 @@
+<% if(screenshot.length > 0){ %>
+<%  for(i=0; i < screenshot.length; i++){ %>
+<div class="galleryItem container">
+<img src="images/<%= screenshot[i] %>" class="img-responsive" width="900" alt="Screenshot <%= i %>" />
+</div>
+<%  } %>
+<% } %>
