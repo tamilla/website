@@ -4,7 +4,7 @@
   "description": "This is a personal website",
   "main": "app/app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node routes/index.js"
   },
   "author": "Tamilla Bunyadova",
   "dependencies": {
