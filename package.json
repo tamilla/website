@@ -4,7 +4,7 @@
   "description": "This is a personal website",
   "main": "app/app.js",
   "scripts": {
-     "start": "nodemon -e css,ejs,js,json --watch app --ignore feedback.json"
+    "start": "node app.js"
   },
   "author": "Tamilla Bunyadova",
   "dependencies": {
